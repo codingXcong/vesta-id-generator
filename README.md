@@ -30,4 +30,4 @@
 
 ## 6 获得技术支持
 
-<a href="./vesta-theme/我的微信QR.jpeg"><img src="./vesta-theme/我的微信QR.jpeg" alt="cloudate-qrcode" width="150" height="190" class="alignnone size-full wp-image-1138" /></a>
+[Leaf——美团点评分布式ID生成系统](https://tech.meituan.com/2017/04/21/mt-leaf.html)
